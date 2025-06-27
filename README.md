@@ -1,16 +1,97 @@
-## Hi there 👋
+<a href="https://github.com/kavindidissanayaka">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*2p-0PUq8F1YV4jNR.png" alt="Banner" width="100%"/>
+</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Hi+I'm+Kavindi+Dissanayaka;Computer+Network+Undergraduate;Networking+Protocols+%26+Security;Cisco+%7C+CCNA+%7C+Routing+%26+Switching;Linux+%7C+Server+Configuration+%7C+Firewalls;Aspiring+Network+Engineer+%26+Software+Developer;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
+</h1>
 
-<!--
-**Kavindi52/Kavindi52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+## 🌐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Computer Network student** at NSBM Green University  
+- 🌟 Aspiring **Network Engineer** with a strong interest in **Network Security**, **Server Administration**, and **Infrastructure Design**  
+- 🚀 **Current Projects:**
+  - 🏥 *Hospital Database Management System* – Integrated network-based data handling for patients and medical staff  
+  - 🏫 *International School Web Platform* – Deployed on local server with network configuration and access control  
+- 🌱 Currently Learning:
+  - 🌐 Networking: `Cisco (CCNA)`, `Routing & Switching`, `Network Protocols`, `Firewall Configuration`  
+  - 💻 Systems: `Linux Server Management`, `Virtualization`, `Network Monitoring Tools`  
+  - 🗃️ Data: `SQL`, `Database Structuring`, `Secure Data Transfer`  
+- 📬 Reach me: **nethminikavindi1@gmail.com**
+
+
+---
+
+## 🧰 Tech Toolbox
+
+<h3>🧠 Languages & Frameworks</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736"  width="40" height="40"/>
+</p>
+
+<h3>☁️ Tools, Cloud & Platforms</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
+</p>
+
+
+<h3>💾 Databases</h3>
+<p align="left">
+  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png?20220326082245"width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kawyadissanayaka&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawyadissanayaka&layout=compact&theme=rose_pine" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kawyadissanayaka&theme=gruvbox&no-frame=true&title=Commit,Repositories,Stars" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:nethminikavindi1@gmail.com">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNIgSBqDoh5DksRPFBgbX_7RxXOci1086xA&s" alt="Gmail Badge"width="40" height="40"/> 
+  </a>
+</p>
+
+
+---
+
+## 🌸 My Motto
+
+> _“Don’t be afraid to sparkle a little brighter.”_ ✨🌸
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&width=600&lines=Thank+you+for+visiting!;Let's+create+magic+together!+💫" alt="Thanks"/>
+</p>
+
