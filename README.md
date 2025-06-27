@@ -1,5 +1,5 @@
 <a href="https://github.com/kavindidissanayaka">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*2p-0PUq8F1YV4jNR.png" alt="Banner" width="100%"/>
+  <img src="https://orca.security/wp-content/uploads/2024/09/orca-typosquatting-in-github-actions-blog.jpg?w=1044" alt="Banner" width="100%"/>
 </a>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Hi+I'm+Kavindi+Dissanayaka;Computer+Network+Undergraduate;Networking+Protocols+%26+Security;Cisco+%7C+CCNA+%7C+Routing+%26+Switching;Linux+%7C+Server+Configuration+%7C+Firewalls;Aspiring+Network+Engineer+%26+Software+Developer;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
