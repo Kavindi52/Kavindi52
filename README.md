@@ -57,6 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavindi52&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawya899&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindi52&layout=compact&theme=rose_pine" width="48%" />
 </p>
 
@@ -82,7 +83,7 @@
 
 <p align="center">
   <a href="mailto:nethminikavindi1@gmail.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNIgSBqDoh5DksRPFBgbX_7RxXOci1086xA&s" alt="Gmail Badge"width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Badge" width="40" height="40"/>  
   </a>
 </p>
 
