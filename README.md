@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavindi52&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawya899&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindi52&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindi52&layout=compact&theme=rose_pine" width="48%" />
 </p>
 
