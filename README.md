@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kavindi52">
-    <img src="https://orca.security/wp-content/uploads/2024/09/orca-typosquatting-in-github-actions-blog.jpg?w=1044" alt="Banner" width="100%"/>
+    <img src="github-header-banner.png" alt="Banner" width="100%"/>
   </a>
 </p>
 
