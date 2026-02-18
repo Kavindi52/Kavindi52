@@ -1,108 +1,213 @@
 <p align="center">
-  <a href="https://github.com/Kavindi52">
-    <img src="github-header-banner.png" alt="Banner" width="100%"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kavindi%20Dissanayaka&fontSize=45&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Hi+I'm+Kavindi+Dissanayaka;Computer+Network+Undergraduate;Networking+Protocols+%26+Security;Cisco+%7C+CCNA+%7C+Routing+%26+Switching;Linux+%7C+Server+Configuration+%7C+Firewalls;Aspiring+Network+Engineer+%26+Software+Developer;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Network+Undergraduate+🎓;Network+Security+%26+Cybersecurity+🔐;CCNA+%7C+Linux+%7C+Cloud;Future+Network+Engineer+🚀;Building+Secure+Infrastructure+💻" />
 </h1>
 
+---
+
+# 🌸 About Me
+
+🎓 Computer Network Undergraduate – NSBM  
+🔐 Passionate about Network Security & Cybersecurity  
+💻 Java | Python | MySQL  
+🌱 Currently Learning: CCNA, Linux Servers, Cloud Networking  
+🚀 Goal: Become a Professional Network Security Engineer  
+
+---
+
+# 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavindi52&theme=tokyonight&no-frame=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 🌐 About Me
+# 🏆 GitHub Achievements & Trophies
 
-- 🎓 **Computer Network Student** at NSBM Green University.
-- 🌟 Aspiring **Network Engineer** with a strong interest in **Network Security**, **Server Administration**, and **Infrastructure Design**.
-- 💡 I focus on building secure network environments and efficient software solutions.
-- 🚀 **Current Projects:**
-  - 🏥 *Hospital Database Management System* – Integrated network-based data handling.
-  - 🏫 *International School Web Platform* – Deployed with network configuration and access control.
-- 🌱 **Currently Learning:** `Cisco (CCNA)`, `Linux Server Management`, `Virtualization`, and `Network Monitoring Tools`.
-- 📬 Reach me: **nethminikavindi1@gmail.com**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavindi52&theme=algolia&no-frame=true&row=2&column=6"/>
+</p>
 
 ---
 
-## 🚀 Key Projects
+# 📊 GitHub Commit & Contribution Analytics
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Hospital DBMS</h3>
-      <p>Integrated network-based data handling for patients and medical staff using <b>SQL</b> and <b>Java</b>.</p>
-      <a href="https://github.com/Kavindi52"><b>View Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏫 International School Web</h3>
-      <p>Web platform deployed on local servers with <b>Network Access Control</b> and <b>Secure Protocols</b>.</p>
-      <a href="https://github.com/Kavindi52"><b>View Repository</b></a>
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavindi52&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindi52&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindi52&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindi52&theme=react-dark" width="95%"/>
+</p>
+
+---
+
+# 🔥 GitHub Commit Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavindi52&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kavindi52&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kavindi52&theme=tokyonight"/>
+</p>
+
+---
+
+---
+
+---
+
+# 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🛒 Auction Management System</h3>
+
+<b>Full-Stack Auction Platform</b><br>
+Users can create auctions, place bids, and manage items securely.
+
+<b>Tech:</b> React | Spring Boot | MySQL  
+
+<a href="https://github.com/Bashi201/Auction-Management-Frontend">
+  <img src="https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github"/>
+</a>
+<br><br>
+<a href="https://github.com/Bashi201/Auction-Management-Backend">
+  <img src="https://img.shields.io/badge/Backend-Repository-green?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%">
+
+<h3>🔐 SecurePassCheck</h3>
+
+<b>Password Strength Analyzer Tool</b><br>
+Evaluates password security and provides improvement suggestions.
+
+<b>Tech:</b> Python  
+
+<br>
+<a href="https://github.com/Kavindi52/SecurePassCheck">
+  <img src="https://img.shields.io/badge/View-Repository-red?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🛍 E-Commerce Site</h3>
+
+<b>Dynamic Online Shopping System</b><br>
+Product listing, cart system, and order management.
+
+<b>Tech:</b> HTML | CSS | JavaScript | MySQL  
+
+<br>
+<a href="https://github.com/Kavindi52/E-Commerce-Site">
+  <img src="https://img.shields.io/badge/View-Repository-purple?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%">
+
+<h3>🏥 Hospital Management System</h3>
+
+<b>Hospital Operation Management</b><br>
+Handles patients, appointments, and billing processes.
+
+<b>Tech:</b> Java | MySQL  
+
+<br>
+<a href="https://github.com/Bashi201/Hospital-Management-System">
+  <img src="https://img.shields.io/badge/View-Repository-darkgreen?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🏫 School Website</h3>
+
+<b>Responsive School Web Platform</b><br>
+Provides academic information and announcements.
+
+<b>Tech:</b> HTML | CSS | JavaScript  
+
+<br>
+<a href="https://github.com/Kavindi52/Skills-International-School-webpage">
+  <img src="https://img.shields.io/badge/View-Repository-orange?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%">
+
+<h3>🐾 Street Dog Care System</h3>
+
+<b>Stray Dog Care Management System</b><br>
+Tracks medical records and adoption management.
+
+<b>Tech:</b> Java | MySQL  
+
+<br>
+<a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System">
+  <img src="https://img.shields.io/badge/View-Repository-brown?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🧰 Tech Toolbox
 
-### 🧠 Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
-</p>
+---
 
-### ☁️ Tools, Cloud & Networking
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="40" height="40" title="Cisco Packet Tracer"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40" title="NetBeans"/>
-</p>
+# 🐍 Contribution Snake Animation
 
-### 💾 Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40" height="40" title="XAMPP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" width="40" height="40" title="WampServer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌍 Visitor Counter
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavindi52&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindi52&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindi52&layout=compact&theme=rose_pine" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavindi52&theme=gruvbox&no-frame=true&title=Commit,Repositories,Stars" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Kavindi52&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 💬 Random Developer Quote
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
+# 🔗 Connect With Me
+
 <p align="center">
-  <a href="mailto:nethminikavindi1@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/></a>
-  <a href="https://github.com/Kavindi52"><img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/></a>
+  <a href="mailto:nethminikavindi1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Kavindi52">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
----
-
-## 🌸 My Motto
-> _“Don’t be afraid to sparkle a little brighter.”_ ✨🌸
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&width=600&lines=Thank+you+for+visiting!;Let's+create+magic+together!+💫" alt="Thanks"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
